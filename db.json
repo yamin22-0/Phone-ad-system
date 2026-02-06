@@ -1,0 +1,60 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "phoneName": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "price": 1199,
+      "status": "Available"
+    },
+    {
+      "id": 2,
+      "phoneName": "Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "price": 1299,
+      "status": "Available"
+    },
+    {
+      "id": 3,
+      "phoneName": "Pixel 8 Pro",
+      "brand": "Google",
+      "price": 999,
+      "status": "Sold Out"
+    },
+    {
+      "id": 4,
+      "phoneName": "OnePlus 12",
+      "brand": "OnePlus",
+      "price": 799,
+      "status": "Available"
+    },
+    {
+      "id": 5,
+      "phoneName": "Xiaomi 14 Pro",
+      "brand": "Xiaomi",
+      "price": 899,
+      "status": "Available"
+    },
+    {
+      "id": 6,
+      "phoneName": "iPhone 15",
+      "brand": "Apple",
+      "price": 799,
+      "status": "Available"
+    },
+    {
+      "id": 7,
+      "phoneName": "Galaxy Z Fold 5",
+      "brand": "Samsung",
+      "price": 1799,
+      "status": "Available"
+    },
+    {
+      "id": 8,
+      "phoneName": "iPhone 14 Pro",
+      "brand": "Apple",
+      "price": 999,
+      "status": "Sold Out"
+    }
+  ]
+}
